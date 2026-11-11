@@ -1,2 +1,1 @@
-# Linux_Device_Driver
-This is readme file
+#This is a file generated and copied while cloning the Repo
